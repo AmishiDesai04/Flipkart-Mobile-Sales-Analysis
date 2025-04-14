@@ -39,3 +39,4 @@ The dashboard includes:
 
 ## Authors
 
+This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) 
